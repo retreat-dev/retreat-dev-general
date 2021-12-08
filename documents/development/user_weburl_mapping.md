@@ -3,6 +3,7 @@ The users and their URL mapping are listed below:
 
 | username | URL |
 |----------|-----|
+| pma      | https://retreat-dev.dyndns.info:2225/pma/ |
 | m..h..   | https://retreat-dev.dyndns.info:2235/ |
 | b..w..   | https://retreat-dev.dyndns.info:2236/ |
 | j..s..   | https://retreat-dev.dyndns.info:2237/ |
